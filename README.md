@@ -4,7 +4,12 @@ AspNetCore Razor Payment Integration with SSLCommerz
 Tool And Technology:
 
 AspNet Core web , Vs 2019 , Razor Class Libraries
-#Run the project as https://localhost:44340/Item
+
+
+#Run the project :
+Change the connection string then
+run the command "update-database" from Console Package Manager
+https://localhost:44340/Item
 
 
 
